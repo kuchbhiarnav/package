@@ -1,6 +1,6 @@
 # one neuron python package
 
-## How to use this package
+## How to use this package:
 
 ```python
 from oneNeuron.perceptron import Perceptron
