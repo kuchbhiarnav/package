@@ -15,5 +15,4 @@ Description-Content-Type: text/markdown
 #one neuron python package
 
 ## references-
-
-- [official python docs for PYPI]: {https://packaging.python.org/en/latest/tutorials/packaging-projects/}
+[official python docs for PYPI]: {https://packaging.python.org/en/latest/tutorials/packaging-projects/}
