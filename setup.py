@@ -3,9 +3,9 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
-PKG_NAME = "oneN_pkg"
+PKG_NAME = "oneNeuron_pkg"
 USER_NAME = "kuchbhiarnav"
-PROJECT_NAME = "oneN-pkg"
+PROJECT_NAME = "oneNeuron-pkg"
 
 setuptools.setup(
     name=f"{PKG_NAME}-{USER_NAME}",
